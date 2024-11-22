@@ -22,7 +22,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/object-detection-project.git
+git clone https://github.com/irfanshaik0011/Object_Detection
 cd object-detection-project
 Install the required Python packages:
 
