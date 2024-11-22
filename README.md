@@ -1,4 +1,6 @@
 **OBJECT DETECTION PROJECT**
+**Smartvision:Object detection with python and ai**
+
 
 This project demonstrates object detection using the MobileNet-SSD model, a pre-trained deep learning model capable of detecting multiple objects in an image. 
 It utilizes OpenCV for image processing and the DNN module for performing detection.
